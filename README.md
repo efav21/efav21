@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @efav21
-- 👀 I’m interested in starting a career in cybersecturity
-- 🌱 I’m currently learning the google cybersecurity certificate program.
+- 👀 I’m interested in starting a new career
+- 🌱 I’m currently learning the python mega course on Udemy
 - 💞️ I’m looking to collaborate on I'm really not sure yet still learning.
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
